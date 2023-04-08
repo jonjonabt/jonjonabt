@@ -2,7 +2,7 @@
 
 ## Estudiante del programa bootcamp Full Stack JavaScript
 
-Me especializo en la industria del entretenimiento, a la cual me dedico hace 15 años. Vivo en la ciudad de  **Buenos Aires - Argentina** esposo de Johanna y padre de Bástian.
+Vivo en la ciudad de  **Buenos Aires - Argentina** esposo de Johanna y padre de Bástian.
 
 Mi objetivo del curso es poder adquirir el conociemitno necesario de las herramientas a las cuales las nuevas tecnologías requieren especialización y conocimiento.
 
@@ -11,23 +11,6 @@ Mi objetivo del curso es poder adquirir el conociemitno necesario de las herrami
 - Capacidad de resolución de problemas. 🚧
 - Creativo. 💡
 - Poder de autogestión. ✔
-
-## Temas Clase 1 Semana 1 📙
-
-- El mundo del Markdown
-- Sintaxis básica de Markdown
-- Sintaxis saborizada en GitHub
-- Uso básico de la Terminal
-- Conociendo la Terminal
-- Comandos alias para la Terminal
-
-## MARKDOWN
-
-> Markdown es un lenguaje de marcado
-> ligero que se utiliza para formatear texto de
-> manera sencilla y fácil de leer.
-> Creado por John Gruber en 2004
-
 
 ## Lista de comandos mas frecuentes 💻
 
